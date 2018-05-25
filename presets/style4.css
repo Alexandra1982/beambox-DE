@@ -1,0 +1,190 @@
+body {
+	background-color: #2f2f2f;
+	color: #2f2f2f;
+}
+
+#main-handler, #text-background, dt.tabs.open, #content-handler,
+.category-view .spacer .h-pr-details, .latest-view .spacer .h-pr-details, .topten-view .spacer .h-pr-details, .recent-view .spacer .h-pr-details, .featured-view .spacer .h-pr-details, .browse-view .spacer .h-pr-details,
+.category-view .spacer, .latest-view .spacer, .topten-view .spacer, .recent-view .spacer, .featured-view .spacer, .browse-view .spacer
+{
+	background-color: #ffffff;
+}
+
+#sl-bg-cover {
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00ffffff,endColorstr=#FFffffff);
+-ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00ffffff,endColorstr=#FFffffff);
+background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 1.0));
+background-image: -ms-linear-gradient(top, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 1.0));
+background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 1.0));
+background-image: -webkit-gradient(linear, center top, center bottom, from(rgba(255, 255, 255, 0.0)), to(rgba(255, 255, 255, 1.0)));
+background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 1.0));
+background-image: linear-gradient(top, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 1.0));
+}
+
+a,a:hover, .moduletable_menu_light ul.menu li ul li a:hover, .moduletable_menu ul.menu li ul li a:hover {
+	color: #1f7092;
+}
+
+.button, button, a.button, .dk_options a:hover, .dk_option_current a,
+a.product-details, input.addtocart-button, a.ask-a-question, .highlight-button, .vm-button-correct,
+span.quantity-controls input.quantity-plus, span.quantity-controls input.quantity-minus, .cartpanel span.closecart, .vm-pagination ul li a  {
+	color: #ffffff !important;
+	background-color: #9a1e1e !important;
+}
+
+.vmproduct.productdetails .spacer .product-price .PricesalesPrice {
+	color: #9a1e1e;
+}
+
+.button:hover, button:hover, a.button:hover,
+a.product-details:hover, input.addtocart-button:hover, a.ask-a-question:hover, .highlight-button:hover, .vm-button-correct:hover,
+span.quantity-controls input.quantity-plus:hover, span.quantity-controls input.quantity-minus:hover, .cartpanel span.closecart:hover, .vm-pagination ul li a:hover {
+	color: #ffffff !important;
+	background-color: #222222 !important;
+}
+
+#tab-modules, #top-modules, #nav-line {
+	border-bottom: 1px solid #d1d1d1;
+}
+
+#slideshow-handler-bg {
+	background-color: #343434;
+}
+
+#social-links li a {
+	background-color: rgba(0,0,0,0.10);
+	color: #ffffff;
+}
+
+#log-panel a, #cart, #currency, div.panel2 {
+	background-color: rgba(0,0,0,0.80);
+	color: #ffffff;
+}
+
+.dk_label, .dk_options a, .cartpanel a, #cart a#cartpanel  {
+	color: #ffffff !important;
+}
+.camera_prev > span,.camera_next > span,.camera_commands > .camera_play,.camera_commands > .camera_stop,.camera_prevThumbs div,.camera_nextThumbs div, #social-links li a:hover, #log-panel a:hover,
+.product-sl-handler ol li.prev, .product-sl-handler ol li.next {
+	background-color: #9a1e1e !important;
+}
+
+.camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span, .camera_wrap .camera_pag .camera_pag_ul li:hover > span,
+.product-sl-handler ol li:hover, .product-sl-handler ol li.current {
+	background-color: #9a1e1e;
+}
+
+.camera_prev .as1, .camera_next .as1 {
+	background-color: #4f0000;
+}
+
+.camera_prev .as2, .camera_next .as2 {
+	background-color: #7c1212;
+}
+
+#menu-handler, .dk_options {
+	background: rgba(0,0,0,0.80);
+}
+
+#menu .menu-nav li ul, #menu .menu-nav li ul li ul, #nav ol, #nav ul, #nav ol ol, #nav ul ul, .print-icon a:hover, .email-icon a:hover{
+	background-color: #9a1e1e !important;
+}
+
+.camera_prev > span:hover,.camera_next > span:hover,.camera_commands > .camera_play:hover,.camera_commands > .camera_stop:hover,.camera_prevThumbs div:hover,.camera_nextThumbs div:hover,
+.product-sl-handler ol li.prev:hover, .product-sl-handler ol li.next:hover {
+	background-color: #292929 !important;
+}
+
+.camera_thumbs_cont ul li > img {
+	border: 1px solid #2f2f2f !important;
+}
+
+.camera_caption {
+	color: #ffffff;
+	text-shadow: 0px 1px 3px rgb(0,0,0);
+}
+
+#menu .menu-nav li a, #menu .menu-nav ul a, #menu .menu-nav ul ul a, ul.menu-nav li a small, #search-position .inputbox {
+	color: #ffffff;
+}
+
+#menu .menu-nav a:hover, .menu-nav li.sfHover > a, .menu-nav li a:hover, .menu-nav li.active > a {
+	background-color: #9a1e1e;
+	color: #ffffff !important;
+}
+
+fieldset {
+	border-top: 1px solid #e1e1e1;
+}
+thead th, table th, tbody th, tbody td {
+	border-top: 1px solid #e1e1e1;
+}
+tbody th, tbody td, h2 .contact-name, .search-results dt.result-title{
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.moduletable_menu {
+	background-color: #ffffff;
+}
+
+.moduletable_menu h3, .moduletable h3  {
+	color: #2f2f2f;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.moduletable_menu ul.menu li, .VMmenu li {
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.moduletable_menu ul.menu li a, .latestnews_menu li a, .VMmenu li div a {
+	color: #1f7092;
+}
+.VMmenu ul li div a:hover {
+	color: #1f7092 !important;
+}
+.moduletable_menu ul.menu li a:hover, ul.latestnews_menu li a:hover, .VMmenu li div a:hover {
+	background-color: #9a1e1e;
+	color: #ffffff;
+}
+
+.moduletable_style2:hover {
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00cacaca,endColorstr=#FFcacaca);
+-ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00cacaca,endColorstr=#FFcacaca);
+background-image: -moz-linear-gradient(top, rgba(202, 202, 202, 0.0), rgba(202, 202, 202, 1.0));
+background-image: -ms-linear-gradient(top, rgba(202, 202, 202, 0.0), rgba(202, 202, 202, 1.0));
+background-image: -o-linear-gradient(top, rgba(202, 202, 202, 0.0), rgba(202, 202, 202, 1.0));
+background-image: -webkit-gradient(linear, center top, center bottom, from(rgba(202, 202, 202, 0.0)), to(rgba(202, 202, 202, 1.0)));
+background-image: -webkit-linear-gradient(top, rgba(202, 202, 202, 0.0), rgba(202, 202, 202, 1.0));
+background-image: linear-gradient(top, rgba(202, 202, 202, 0.0), rgba(202, 202, 202, 1.0));
+}
+
+#bottom-bg {
+	background-color: #101010;
+}
+
+#bot-modules {
+	background-color: #272727;
+	color: #b0b0b0;
+}
+
+#bot-modules .bsl1, #bot-modules .bsr1 {background-color: #141414;}
+
+#bot-modules .bsr2, #bot-modules .bsl2 {background-color: #272727;}
+
+#bot-modules h3, #bot-modules .moduletable { 
+	color: #b0b0b0 !important;
+}
+
+#bot-modules a {
+	color: #ffffff;
+}
+
+#footer-line a {
+	color: #858585;
+}
+#footer-line a:hover {
+	color: #dbdbdb;
+}
+#footer-line {
+	color: #505050;
+}
